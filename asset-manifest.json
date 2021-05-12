@@ -1,0 +1,38 @@
+{
+  "files": {
+    "main.css": "/places-to-visit-in-india/static/css/main.55947ea2.chunk.css",
+    "main.js": "/places-to-visit-in-india/static/js/main.7b6cfd4e.chunk.js",
+    "main.js.map": "/places-to-visit-in-india/static/js/main.7b6cfd4e.chunk.js.map",
+    "runtime-main.js": "/places-to-visit-in-india/static/js/runtime-main.f8e7e27e.js",
+    "runtime-main.js.map": "/places-to-visit-in-india/static/js/runtime-main.f8e7e27e.js.map",
+    "static/js/2.1a474881.chunk.js": "/places-to-visit-in-india/static/js/2.1a474881.chunk.js",
+    "static/js/2.1a474881.chunk.js.map": "/places-to-visit-in-india/static/js/2.1a474881.chunk.js.map",
+    "static/js/3.dc8b78a4.chunk.js": "/places-to-visit-in-india/static/js/3.dc8b78a4.chunk.js",
+    "static/js/3.dc8b78a4.chunk.js.map": "/places-to-visit-in-india/static/js/3.dc8b78a4.chunk.js.map",
+    "index.html": "/places-to-visit-in-india/index.html",
+    "static/css/main.55947ea2.chunk.css.map": "/places-to-visit-in-india/static/css/main.55947ea2.chunk.css.map",
+    "static/js/2.1a474881.chunk.js.LICENSE.txt": "/places-to-visit-in-india/static/js/2.1a474881.chunk.js.LICENSE.txt",
+    "static/media/aaraku.a89b51eb.jpg": "/places-to-visit-in-india/static/media/aaraku.a89b51eb.jpg",
+    "static/media/charminar.940532ec.jpg": "/places-to-visit-in-india/static/media/charminar.940532ec.jpg",
+    "static/media/golkonda.48d4f175.jpg": "/places-to-visit-in-india/static/media/golkonda.48d4f175.jpg",
+    "static/media/himalayas.55c26032.jpeg": "/places-to-visit-in-india/static/media/himalayas.55c26032.jpeg",
+    "static/media/hum.35e8e0b0.jpg": "/places-to-visit-in-india/static/media/hum.35e8e0b0.jpg",
+    "static/media/jaipur.8081a7eb.jfif": "/places-to-visit-in-india/static/media/jaipur.8081a7eb.jfif",
+    "static/media/kasi.c7a7488d.jpeg": "/places-to-visit-in-india/static/media/kasi.c7a7488d.jpeg",
+    "static/media/kerala.5b70cedf.jfif": "/places-to-visit-in-india/static/media/kerala.5b70cedf.jfif",
+    "static/media/kokata.f7d5c119.jpeg": "/places-to-visit-in-india/static/media/kokata.f7d5c119.jpeg",
+    "static/media/ladak.c522658d.jfif": "/places-to-visit-in-india/static/media/ladak.c522658d.jfif",
+    "static/media/mumbai.39ec17c4.jpg": "/places-to-visit-in-india/static/media/mumbai.39ec17c4.jpg",
+    "static/media/puri.a41f3d6b.jpg": "/places-to-visit-in-india/static/media/puri.a41f3d6b.jpg",
+    "static/media/ranofkutch.99d758f9.jpg": "/places-to-visit-in-india/static/media/ranofkutch.99d758f9.jpg",
+    "static/media/shimla.bc04a2a3.jpg": "/places-to-visit-in-india/static/media/shimla.bc04a2a3.jpg",
+    "static/media/tajmahal.53b07a2f.jfif": "/places-to-visit-in-india/static/media/tajmahal.53b07a2f.jfif",
+    "static/media/tirupathi.2fa3dcb3.jpg": "/places-to-visit-in-india/static/media/tirupathi.2fa3dcb3.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f8e7e27e.js",
+    "static/js/2.1a474881.chunk.js",
+    "static/css/main.55947ea2.chunk.css",
+    "static/js/main.7b6cfd4e.chunk.js"
+  ]
+}
